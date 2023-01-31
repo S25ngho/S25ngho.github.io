@@ -1,6 +1,6 @@
-# wedding-invitation
+# 입시전력
 
-A mobile wedding invitation card for myself
+홈페이지 만드는중
 
 ## Features
 
