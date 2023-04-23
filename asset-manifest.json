@@ -1,18 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.4709c549.js",
-    "static/js/787.ab124ac6.chunk.js": "/static/js/787.ab124ac6.chunk.js",
+    "main.css": "/static/css/main.4efb37a3.css",
+    "main.js": "/static/js/main.4787c267.js",
+    "static/js/27.e072efc0.chunk.js": "/static/js/27.e072efc0.chunk.js",
     "static/media/수시등급검색기.png": "/static/media/수시등급검색기.d0eaa2130fc8214cd8e1.png",
     "static/media/수시충원율검색기.png": "/static/media/수시충원율검색기.0406b083a04dc2a891da.png",
     "static/media/수시경쟁률검색기.png": "/static/media/수시경쟁률검색기.9ce86a894d81aaacc3ea.png",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.4709c549.js.map": "/static/js/main.4709c549.js.map",
-    "787.ab124ac6.chunk.js.map": "/static/js/787.ab124ac6.chunk.js.map"
+    "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.4709c549.js"
+    "static/css/main.4efb37a3.css",
+    "static/js/main.4787c267.js"
   ]
 }
